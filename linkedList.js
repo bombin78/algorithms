@@ -1,4 +1,4 @@
-class linkedList {
+class LinkedList {
 	constructor() {
 		// Размер списка
 		this.size = 0;
@@ -58,7 +58,7 @@ class Node {
 	}
 }
 
-const list = new linkedList();
+const list = new LinkedList();
 
 list.add(5);
 list.add(3);
